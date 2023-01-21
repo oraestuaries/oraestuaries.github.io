@@ -2,7 +2,7 @@
 title: "ORA Estuaries"
 ---
 
-Building Generational Resilience With Natural Infrastructure
+## Building Generational Resilience With Natural Infrastructure
 
 ORA Estuaries grows oyster reefs into living coastal protection infrastructure.
 
