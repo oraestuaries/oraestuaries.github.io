@@ -11,6 +11,10 @@ Oysters have been described as the “temperate equivalent of coral reefs” for
 ORA Estuaries is at the forefront of this trend.  ORA Estuaries' founder, Tyler Ortego, is a leader in the field of using engineered oyster reefs for coastal shoreline protection.  Tyler is on a mission to fundamentally disrupt the economics of coastal protection.  To that end, ORA Estuaries and sister company ORA Technologies are developing a solution called the Oyster Scaffold.   The developing Oyster Scaffold technology will empower communities to grow living oyster reefs into building blocks for coastal restoration.  Those living building blocks can then be assembled into low cost shoreline protection or large barrier reefs.  The growing process itself becomes a habitat feature, cleaning water, enhancing fisheries etc.  We're letting the oysters do the work.
 In addition, as science and policy develops, ORA Estuaries is developing novel solutions for monetizing ecosystem services in a way that connects diverse stakeholders to large scale ecosystem restoration.
 
+::: {.callout-tip}
+Contact us at <build.reefs@oraestuaries.com>.
+:::
+
 ::: {.callout-note}
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 :::
